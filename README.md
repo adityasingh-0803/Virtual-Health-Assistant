@@ -86,6 +86,4 @@ By integrating these features, a Virtual Health Assistant can serve as a compreh
 
 ---
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
