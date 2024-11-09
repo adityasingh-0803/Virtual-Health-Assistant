@@ -1,0 +1,14 @@
+torch>=2.0.1
+torchvision
+gradio==4.4.0
+git+https://github.com/huggingface/transformers.git
+accelerate
+einops
+protobuf
+safetensors
+qwen-vl-utils
+pillow
+requests
+packaging
+tiktoken
+pytest
